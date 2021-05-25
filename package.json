@@ -1,17 +1,15 @@
 {
   "name": "eslint-config-coding-rules",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "./index.js",
-  "bin": {
-    "cr": "./index.js"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "eslint-plugin-coding-rules": "0.0.2",
     "espree": "^7.3.1",
     "lodash": "^4.17.21"
   },
