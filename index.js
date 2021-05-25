@@ -3,7 +3,7 @@ module.exports = {
     'coding-rules'
   ],
   rules: {
-    'coding-rules/main': 2,
-    'coding-rules/onclick-rule': 2
+    'coding-rules/main': 1,
+    'coding-rules/onclick-rule': 1
   }
 };
