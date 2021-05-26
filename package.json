@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "eslint-plugin-coding-rules": "0.0.3"
+    "eslint-plugin-coding-rules": "0.0.5"
   },
   "devDependencies": {}
 }
